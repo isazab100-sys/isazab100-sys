@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Old Mechanism GIF (Data/ML themed) -->
+  <!-- Old Mechanism GIF -->
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="460"/>
 </p>
 
@@ -46,7 +46,7 @@ Focused on **practical application**, delivering insights that **matter and driv
 
 ---
 
-## 🧩 Workflow Overview
+## 🧩 ML & Data Workflow
 
 ```mermaid
 flowchart LR
