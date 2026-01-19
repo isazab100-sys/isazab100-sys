@@ -5,56 +5,48 @@
 <h1 align="center">Ismael Azab</h1>
 
 <h3 align="center">
-Data Analysis & Machine Learning • Python • Predictive Analytics
+Data Analysis & Machine Learning | Python | Applied Analytics
 </h3>
 
 <p align="center">
-From data understanding → modeling → measurable outcomes
+Analyzing data • Building predictive models • Delivering actionable insights
 </p>
 
 ---
 
-## 🎯 Professional Profile
-Data Analyst & Machine Learning practitioner focused on **turning data into predictions and decisions**.  
-I work across the full pipeline: **EDA → feature engineering → modeling → evaluation → insight delivery**.  
-Interested in **business, financial, and performance-driven analytics** where ML adds real value.
+## 👤 About Me
+I’m a **Data Analyst & Machine Learning practitioner** focused on real-world projects.  
+I work across the full pipeline: **data cleaning → analysis → visualization → modeling → insight delivery**.  
+I aim to **apply ML and analytics where it creates measurable value**, while building a strong, practical portfolio.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Core Skills
 
-### 📊 Data Analysis
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Statistical Analysis
-- KPI & Performance Metrics
-- Insight-driven reporting
+### Data Analysis
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Preprocessing  
+- Descriptive & Inferential Statistics  
+- Trend, Pattern & KPI Analysis  
 
-### 🤖 Machine Learning
-- Supervised Learning (Regression, Classification)
-- Unsupervised Learning (Clustering, Segmentation)
-- Feature Engineering
-- Model Selection & Tuning
-- Model Evaluation (Accuracy, Precision, Recall, F1, RMSE)
+### Machine Learning
+- Supervised Learning: Regression & Classification  
+- Unsupervised Learning: Clustering & Segmentation  
+- Feature Engineering & Model Selection  
+- Evaluation Metrics: Accuracy, RMSE, F1-score, Precision/Recall  
 
-### 📈 Visualization & Communication
-- Distribution, trend & correlation analysis
-- Model performance visualization
-- Clear storytelling for decision-makers
-
-### 🛠️ Tech Stack
-- Python
-- Pandas • NumPy
-- Matplotlib • Seaborn
-- Scikit-learn
-- SQL
-- Git & GitHub
-- Jupyter Notebook
-- Power BI (Foundations)
+### Visualization & Tools
+- Matplotlib • Seaborn  
+- Pandas • NumPy  
+- Scikit-learn  
+- SQL (Intermediate)  
+- Jupyter Notebook  
+- Git & GitHub  
+- Power BI (Foundations)  
 
 ---
 
-## 🧩 Machine Learning Workflow
+## 🧩 ML & Data Workflow
 
 ```mermaid
 flowchart LR
