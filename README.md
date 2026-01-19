@@ -1,20 +1,58 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
-<h3 align="center">Data Engineer | Mentor @ <a href='https://udacity.com'>Udacity</a> | Applied ML Enthusiast | Technical Blogger | <a href='https://aws.amazon.com/developer/community/community-builders/'> AWS Community Builder</a></h3>
+## 👋 Hi, I'm Ismael Azab  
+### Machine Learning & Data Analysis Enthusiast | Python Developer | AI Learner
 
-## I little bit about me
-
-🎓 &nbsp;I'm currently working towards an AWS Data Engineering Cert. \
-🌱 &nbsp;I'm on track with learning more about DataOps, MLOps, DevOps and Software Architecture.\
-✍️ &nbsp;In my free time, I enjoy hiking, open-sea swimming and spending time with family.\
-💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/mmphego/30min) to talk with me.\
-✉️ &nbsp;You can drop me an email at mpho@mphomphego.co.za with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!.\
-📄 &nbsp;Check my [now page](https://bit.ly/3Jxtwaw) to get to know me a little better.
+## 🚀 About Me
+🎓 I'm focusing on **Machine Learning and Data Analysis**, with strong interest in applying AI to real-world problems.  
+📊 I work with data to extract insights, build predictive models, and support decision-making.  
+🤖 Currently learning and practicing **Machine Learning, Statistics, and Model Evaluation**.  
+🌱 Improving my skills in **Data Science workflows, Feature Engineering, and Model Deployment basics**.  
+🧠 Interested in **AI applications in Finance and Business Analytics**.
 
 ---
 
-<p  align="center">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+## 🛠️ Technical Skills
 
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+**Programming & Data**
+- Python  
+- SQL (Basics – Intermediate)  
+- Pandas, NumPy  
+
+**Data Analysis & Visualization**
+- Matplotlib  
+- Seaborn  
+- Power BI (Basics)  
+
+**Machine Learning**
+- Scikit-learn  
+- Supervised & Unsupervised Learning  
+- Regression, Classification, Clustering  
+- Model Evaluation & Metrics  
+
+**Tools**
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
+
+---
+
+## 📂 Projects
+🔹 Data Analysis Projects
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Visualization
+- Insight Reports
+
+🔹 Machine Learning Projects
+- Predictive Models
+- Feature Engineering
+- Model Training & Evaluation
+
+> Projects are continuously updated as I learn and grow.
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsmaelAzab&show_icons=true&theme=default" />
+</p>
+
+> Note: GitHub stats refle
