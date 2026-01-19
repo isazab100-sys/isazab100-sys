@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif" width="460"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="80"/>
 </p>
 
 <h1 align="center">Ismael Azab</h1>
