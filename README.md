@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- Original Mechanism GIF (Data/ML themed) -->
+  <!-- Old Mechanism GIF (Data/ML themed) -->
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="460"/>
 </p>
 
